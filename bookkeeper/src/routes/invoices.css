@@ -1,0 +1,20 @@
+.invoices {
+  padding: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-right: 'solid 1px';
+  padding: '1rem';
+}
